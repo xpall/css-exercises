@@ -1,0 +1,15 @@
+.bold-weight,
+.normal-weight {
+    font-size: 28px;
+    font-style: Helvetica, "Times New Roman", sans-serif;
+}
+
+.bold-weight {
+    background-color: black;
+    color: white;
+    font-weight: bold;
+}
+
+.normal-weight {
+    background-color: yellow;
+}
